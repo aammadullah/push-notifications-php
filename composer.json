@@ -1,5 +1,5 @@
 {
-    "name": "pusher/pusher-push-notifications",
+    "name": "aammadullah/push-notifications-php",
     "version": "2.0",
     "license": "MIT",
     "require": {
